@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 Currently studying and exploring the IT world  
 - 💻 Passionate about cybersecurity and ethical hacking
-- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/EST2374/blob/main/HTB%20Academy%20Student%20Transcript.pdf) 
+- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/EST2374/blob/main/HTB_Academy_Student_Transcript.pdf) 
 - 📖 Always eager to learn new technologies and concepts
 - 🏫 [My School GitHub](https://github.com/HJakobTL)
 
