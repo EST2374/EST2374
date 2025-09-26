@@ -24,14 +24,6 @@
 
 ---
 
-### 🎯 Goals
-
-- 🚀 Deepen my cybersecurity expertise  
-- 🛡️ Build more tools and resources for the community  
-- 🌱 Continue growing and making an impact in IT
-
----
-
 ### 📝 Featured Blog
 
 - [HTB Web Attacks Skills Assessment](https://medium.com/@est_21/htb-web-attacks-skills-assessment-c9b0fd6d9aca)  
