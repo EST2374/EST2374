@@ -2,8 +2,6 @@
   <img src="assets/font.svg" alt="EST2374" width="500"/>
 </p>
 
----
-
 ### 🚀 About Me
 
 - 🧑‍🎓 Currently studying and exploring the IT world  
