@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/est2374-hacker.svg" alt="EST2374" width="350"/>
+  <img src="assets/font.svg" alt="EST2374" width="350"/>
 </p>
 
 <p align="center">
