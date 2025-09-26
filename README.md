@@ -20,7 +20,7 @@
 
 - **Languages:** Python, Java, SQL
 - **Cybersecurity:** HTB modules & labs, ethical hacking basics
-- **Web:** Building resources for learners
+- **Web:** HTML, CSS
 
 ---
 
