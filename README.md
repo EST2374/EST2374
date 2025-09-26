@@ -43,7 +43,7 @@
 
 - 📧 [jack.cez2004@gmail.com](mailto:jack.cez2004@gmail.com)
 - 💼 [LinkedIn: Jakob Cezawa](https://www.linkedin.com/in/jakob-cezawa-03b69535b/)
-- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/Code/raw/main/HTB_Academy_Student_Transcript.pdf)
+- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/EST2374/raw/main/HTB_Academy_Student_Transcript.pdf)
 
 ---
 
