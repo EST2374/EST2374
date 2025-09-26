@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm EST2374</h1>
+<p align="center">
+  <img src="assets/est2374-hacker.svg" alt="EST2374" width="350"/>
+</p>
 
 <p align="center">
   <b>Student | Cybersecurity Enthusiast | Lifelong Learner</b>
