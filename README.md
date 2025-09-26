@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/font.svg" alt="EST2374" width="350"/>
-</p>
-
-<p align="center">
-  <b>Student | Cybersecurity Enthusiast | Lifelong Learner</b>
+  <img src="assets/font.svg" alt="EST2374" width="500"/>
 </p>
 
 ---
@@ -35,7 +31,7 @@
 
 - 📧 [jack.cez2004@gmail.com](mailto:jack.cez2004@gmail.com)
 - 💼 [LinkedIn: Jakob Cezawa](https://www.linkedin.com/in/jakob-cezawa-03b69535b/)
-- 📝 [HTB Academy Student Transcript](https://app.hackthebox.com/users/2255803)
+- 📝 [HTB Account](https://app.hackthebox.com/users/2255803)
 
 ---
 
