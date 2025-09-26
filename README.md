@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/font.svg" alt="EST2374" width="500"/>
+  <img src="assets/font.svg" alt="EST2374" width="400"/>
 </p>
 
 ### 🚀 About Me
