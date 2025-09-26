@@ -30,7 +30,8 @@
 
 - 📧 [jack.cez2004@gmail.com](mailto:jack.cez2004@gmail.com)
 - 💼 [LinkedIn: Jakob Cezawa](https://www.linkedin.com/in/jakob-cezawa-03b69535b/)
-- 📝 [HTB Account](https://app.hackthebox.com/users/2255803)
+- 🕵️ [HTB Account](https://app.hackthebox.com/users/2255803)
+- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/EST2374/blob/main/HTB%20Academy%20Student%20Transcript.pdf) 
 
 ---
 
