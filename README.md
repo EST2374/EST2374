@@ -10,8 +10,6 @@
 
 - 🧑‍🎓 Currently studying and exploring the IT world  
 - 💻 Passionate about cybersecurity and ethical hacking  
-- 🏆 Completed many HTB modules and Easy Labs on my own  
-- 🐍 Enjoy programming in Python and building handy tools  
 - 📖 Always eager to learn new technologies and concepts
 
 ---
