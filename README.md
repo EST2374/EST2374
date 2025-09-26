@@ -7,6 +7,7 @@
 - 🧑‍🎓 Currently studying and exploring the IT world  
 - 💻 Passionate about cybersecurity and ethical hacking  
 - 📖 Always eager to learn new technologies and concepts
+- 🏫 [My School GitHub](https://github.com/HJakobTL)
 
 ---
 
