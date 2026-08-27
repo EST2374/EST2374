@@ -16,8 +16,8 @@
 
 - **Languages:** Python, Java, Kotlin, SQL
 - **App Development:** Full-stack development, UI/UX design
-- **Web:** HTML, CSS
-- **Tools:** Android Studio, JetBrains IntelliJ, Git, VS Code
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Android Studio, JetBrains IntelliJ, Git
 
 ---
 
