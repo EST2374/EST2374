@@ -5,8 +5,8 @@
 ### 🚀 About Me
 
 - 🧑‍🎓 Currently studying and exploring the IT world  
-- 💻 Passionate about cybersecurity and ethical hacking
-- 📝 [HTB Academy Student Transcript](https://github.com/EST2374/EST2374/blob/main/HTB_Academy_Student_Transcript.pdf) 
+- 💻 Passionate about app development and building creative projects
+- 🎵 Building cool applications like **Hyprset** and **SongGuesser**
 - 📖 Always eager to learn new technologies and concepts
 - 🏫 [My School GitHub](https://github.com/HJakobTL)
 
@@ -14,16 +14,18 @@
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, SQL
-- **Cybersecurity:** HTB modules & labs, ethical hacking basics
+- **Languages:** Python, Java, Kotlin, SQL
+- **App Development:** Full-stack development, UI/UX design
 - **Web:** HTML, CSS
+- **Tools:** Android Studio, JetBrains IntelliJ, Git, VS Code
 
 ---
 
-### 📝 Featured Blog
+### 📱 Featured Projects
 
-- [HTB Web Attacks Skills Assessment](https://medium.com/@est_21/htb-web-attacks-skills-assessment-c9b0fd6d9aca)  
-  _My experience and strategies for tackling Hack The Box's Web Attacks module assessment._
+- **Hyprset** - A customizable settings/configuration app
+- **SongGuesser** - A music guessing game application
+- [Explore my repositories](https://github.com/EST2374?tab=repositories) for more projects
 
 ---
 
@@ -31,7 +33,6 @@
 
 - 📧 [jack.cez2004@gmail.com](mailto:jack.cez2004@gmail.com)
 - 💼 [LinkedIn: Jakob Cezawa](https://www.linkedin.com/in/jakob-cezawa-03b69535b/)
-- 🕵️ [HTB Account](https://app.hackthebox.com/users/2255803)
 
 ---
 
